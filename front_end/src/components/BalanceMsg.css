@@ -1,0 +1,14 @@
+.container-balance {
+  display: inline-grid;
+  grid-template-columns: auto auto auto;
+  gap: 8px;
+  align-items: center;
+}
+
+.token-img {
+  width: 32px;
+}
+
+.amount {
+  font-weight: 700;
+}
